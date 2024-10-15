@@ -142,13 +142,10 @@ a:hover {
 }
 
 .what-i-do .service-item ion-icon{
-    width: 44px;
+    font-size: 44px;
     color: var(--link-border-color);
 }
 
-.what-i-do .service-item icon-icon{
-    width: 44px;
-}
 
 .what-i-do .service-item p{
     font-size: 1.3rem;
